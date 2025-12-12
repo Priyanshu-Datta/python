@@ -4,4 +4,4 @@ sum = 0
 for i in lst:
     sum += i
 
-print(sum)
+print("total:",sum)
